@@ -5,6 +5,33 @@ O objetivo é analisar padrões de acidentes, identificar fatores de risco e ger
 
 > Nota: Este dashboard foi desenvolvido aplicando conhecimentos de Power BI adquiridos durante minha formação em Engenharia de Dados.
 
+📂 Fonte dos Dados: [link](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+
+
+## 📊 Sobre os Dados
+
+A base utilizada neste projeto é o conjunto público de **acidentes registrados pela Polícia Rodoviária Federal (PRF)** referentes ao ano de **2024**.
+
+Ela contém informações como:
+
+- data e hora do acidente  
+- estado e rodovia  
+- tipo de acidente  
+- condições meteorológicas  
+- número de mortos, feridos e ilesos  
+- causas prováveis registradas  
+- características dos veículos envolvidos
+
+### 🔧 Etapas de Tratamento e Limpeza
+Após o carregamento dos dados, foram realizadas as seguintes etapas de preparação:
+
+- tratamento de valores ausentes  
+- padronização e conversão de datas  
+- normalização de categorias  
+- remoção de inconsistências  
+- organização das tabelas para performance no Power BI  
+- criação de métricas.
+
 ---
 
 ## 📊 Funcionalidades do Dashboard
