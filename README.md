@@ -79,16 +79,4 @@ Distribuição detalhada entre colisões, atropelamentos, saídas de pista, capo
 
 ---
 
-## 🖼️ Prévia do Dashboard
-
-*(Substitua abaixo pelos prints reais do seu projeto, armazenados na pasta `/images/`)*
-
-![Página Geral](images/dashboard_principal.png)  
-![Acidentes por Clima](images/clima.png)  
-![Causas dos Acidentes](images/causas.png)  
-![Tipos de Acidentes](images/tipos.png)
-
----
-
-## 📂 Estrutura do Repositório
 
